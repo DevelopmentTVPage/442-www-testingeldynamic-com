@@ -1,0 +1,13 @@
+#Hugo configuration
+title = "Dynamic Channel Test"
+baseURL = "https:\/\/www.testingeldynamic.com"
+languageCode = "en-us"
+theme = "tvpage"
+disablePathToLower = "true"
+enableRobotsTXT = true
+
+[params]
+loginId = "1759028"
+subfolder = ""
+firstpartycookies = true
+cookiedomain = "testingeldynamic.com"
